@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="font-bold">FONTOURA</div>
         </Link>
         <div className='flex flex-col text-right text-white'>
-          <p>Feito por: Murilo, Pedro Mota, Matheus Teixeira,  Pedro, Victor Portilho e Gabriel.</p>
+          <p>Feito por: Murilo, Pedro Mota, Matheus Teixeira,  Pedro e Gabriel.</p>
           <p>Todo conteúdo é fictício e foi feito para fins educativos e cômicos.</p>
         </div>
       </div>
